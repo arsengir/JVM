@@ -1,7 +1,7 @@
 # Задача "Понимание JVM"
 
 ## ClassLoader'ы
-Вначале JVM помощью ClassLoader загрузит классы. 
+Вначале JVM с помощью ClassLoader загрузит классы. 
 С помощью Application ClassLoader загрузит класс JvmComprehension.
 С помощью Bootstrap ClassLoader загрузит классы System, Object и другие системные.
 
